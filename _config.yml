@@ -97,7 +97,7 @@ author:
   name             : "FireKann"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "University student"
-  location         : "Seoul"
+  location         : <a herf="https://www.google.co.kr/maps/place/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/@37.5652894,126.8494667,11z/data=!3m1!4b1!4m5!3m4!1s0x357ca28b61c565cd:0x858aedb4e4ea83eb!8m2!3d37.566535!4d126.9779692?hl=ko">Seoul"</a>
   email            : "leehoin118@gmail.com"
   links:
     - label: "Email"

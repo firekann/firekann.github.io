@@ -97,7 +97,7 @@ author:
   name             : "Fire Kann"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : <a href="https://www.cau.ac.kr/" target="_blank">Chung-Ang University student</a>
-  location         : <a href="https://www.google.co.kr/maps/place/서울특별시/" target="_blank">Seoul</a>
+  location         : "Seoul, Korea"
   email            : "leehoin118@gmail.com"
   links:
     - label: "Email"
